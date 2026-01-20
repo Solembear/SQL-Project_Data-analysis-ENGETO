@@ -54,6 +54,7 @@ Z datasetov *economies* a *countries* je vytvorená sekundárna tabuľka, ktorá
 makroekonomické ukazovatele vrátane HDP, GINI a populácie krajín sveta. 
 Tabuľky economies a countries sú následne na základe stĺpca **country** prepojené.
 Keďže hodnoty s pôvodného datasetu *economies* začínajú už roku 1960, tak sme rozsah limitovali na základe rozsahu z primárnej tabuľky, t.j. **od roku 2006 do roku 2018**.
+Následne sme tabuľku upravili len pre Európske krajiny.
 
 ## Popis výsledných tabuliek a dátových polí
 
